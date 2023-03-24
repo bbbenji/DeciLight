@@ -1,0 +1,3 @@
+[submodule "DeciLight/esp32-i2s-slm"]
+	path = DeciLight/esp32-i2s-slm
+	url = git@github.com:HorstBaerbel/esp32-i2s-slm.git
